@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.todo-form {
+  background-color: rgba(0, 0, 0, 0.6);
+  text-align: center;
+  margin: 16px;
+  padding: 16px;
+}
+.todo__header {
+  padding: 16px;
+  color: #fff;
+  margin-top: 0;
+  padding-top: 0px;
+}

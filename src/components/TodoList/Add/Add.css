@@ -1,0 +1,16 @@
+.add__input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+.add__button {
+  padding: 8px 16px;
+  font-size: 24px;
+  line-height: 28px;
+  background-color: rgba(255, 255, 255, 0.6);
+  display: block;
+  width: 100%;
+  margin-bottom: 16px;
+}

@@ -1,0 +1,5 @@
+.todos__list {
+  list-style-type: none;
+  display: block;
+  margin: 0 16px;
+}

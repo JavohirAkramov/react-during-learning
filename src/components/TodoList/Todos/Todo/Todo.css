@@ -1,0 +1,9 @@
+.item {
+  background-color: #fff;
+}
+.item__input {
+  display: block;
+  width: 100%;
+  padding: 16px;
+  margin-bottom: 10px;
+}
