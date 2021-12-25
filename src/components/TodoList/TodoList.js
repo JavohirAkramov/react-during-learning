@@ -39,7 +39,6 @@ export default function TodoList() {
     <div className="todo todo-form">
       <h1 className="todo__header">Todo List</h1>
       <Add add={add} />
-      <button onClick={() => console.log(todo)}>console.log(itemsList)</button>
       <Todos
         items={todo}
         remove={remove}
